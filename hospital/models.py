@@ -11,7 +11,7 @@ class Patient(models.Model):
     birthdate=models.DateField()
     bloodgroup= models.CharField(max_length=5)
 
-    def 
+  
 
 
     def __str__(self):
